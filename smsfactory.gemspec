@@ -9,6 +9,7 @@ Gem::Specification.new do |s|
   s.date = %q{2009-01-03}
   s.description = %q{TODO}
   s.email = %q{foysavas@gmail.com}
+  s.files = ["VERSION.yml", "README.markdown", "lib/smsfactory.rb", "lib/carriers.yml"]
   s.homepage = %q{http://github.com/foysavas/smsfactorym}
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.1}
