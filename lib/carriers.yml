@@ -1,0 +1,19 @@
+carriers:
+  alltel: @message.alltel.com
+  ameritech: @paging.acswireless.com
+  att: @txt.att.net
+  bellsouthmobility: @blsdcs.net
+  blueskyfrog: @blueskyfrog.com
+  boost: @myboostmobile.com
+  cellularsouth: @csouth1.com
+  kajeet: @mobile.kajeet.net
+  metropcs: @mymetropcs.com
+  powertel: @ptel.net
+  pscwireless: @sms.pscel.com
+  qwest: @qwestmp.com
+  southernlink: @page.southernlinc.com
+  sprint: @messaging.sprintpcs.com
+  suncom: @tms.suncom.com
+  tmobile: @tmomail.net
+  virgin: @vmobl.net
+  verizon: @vtext.com
