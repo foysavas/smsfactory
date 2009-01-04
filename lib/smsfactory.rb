@@ -31,7 +31,7 @@ class SmsFactory < MailFactory
 
   unless $CARRIERS
     require 'yaml'
-    $CARRIERS = YAML::load_file("carriers.yml")['carriers']
+    $CARRIERS = YAML::load_file(File.join( File.dirname(__FILE__), "carriers.yml" ))['carriers']
   end
 
   def initialize(o={})
